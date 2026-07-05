@@ -12,6 +12,11 @@ no accessibility tree. Every episode is graded by the arena's oracle API
 and recorded as annotated frames + mp4 + a transcript of the model's
 thoughts.
 
+The arena also runs as a hosted instance —
+[xiningli/webtask-arena on Hugging Face Spaces](https://huggingface.co/spaces/xiningli/webtask-arena)
+— if you want to poke at the tasks and the reset/verify API without
+installing anything.
+
 **[▶ 88-second demo reel](
 https://github.com/user-attachments/assets/4393a589-28de-41ae-86cb-3fedb75e5abb
 )** — one pass, two diagnosed failures.
