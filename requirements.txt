@@ -1,0 +1,6 @@
+torch>=2.4
+transformers>=4.49
+accelerate>=0.30
+bitsandbytes>=0.43
+playwright>=1.44
+pillow>=10.0
