@@ -12,7 +12,9 @@ no accessibility tree. Every episode is graded by the arena's oracle API
 and recorded as annotated frames + mp4 + a transcript of the model's
 thoughts.
 
-**[▶ 88-second demo reel](demo.mp4)** — one pass, two diagnosed failures.
+**[▶ 88-second demo reel](
+https://github.com/user-attachments/assets/4393a589-28de-41ae-86cb-3fedb75e5abb
+)** — one pass, two diagnosed failures.
 
 ## Results (seed 0, clean rendering)
 
